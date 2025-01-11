@@ -1,17 +1,12 @@
-import React from "react";
+// pages/index.js
 
-const HomePage = () => {
+import HeroSection from '../components/HeroSection';
+
+export default function Home() {
   return (
     <div>
-      <h1>Home Page</h1>
-      <p>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. At quod nulla
-        quisquam modi suscipit omnis aliquid in accusantium, laudantium maiores?
-        Molestias molestiae officiis quaerat voluptates corporis. Asperiores
-        ducimus nam reiciendis.
-      </p>
+      <HeroSection />
+      {/* Other sections can go here */}
     </div>
   );
-};
-
-export default HomePage;
+}
