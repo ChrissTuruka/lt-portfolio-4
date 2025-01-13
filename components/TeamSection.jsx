@@ -11,7 +11,7 @@ const TeamSection = () => {
           <img
             src="5.png"
             alt="Major Person"
-            className="w-32 h-32 rounded-full mx-auto mb-4"
+            className="w-72 h-72 rounded-full mx-auto mb-4"
           />
           <h3 className="text-2xl font-semibold text-white">Jane Doe</h3>
           <p className="text-gray-300">CEO & Founder</p>
