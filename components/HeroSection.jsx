@@ -3,11 +3,11 @@
 
 const HeroSection = () => {
     return (
-      <div className="flex items-center justify-between h-screen bg-gradient-to-r from-blue-600 to-purple-600 text-white px-6">
-        <div className="w-full md:w-1/2">
-          <h1 className="text-5xl md:text-6xl font-bold mb-4">Welcome to Our Website</h1>
+      <div className="flex items-center justify-between h-screen bg-gradient-to-r from-blue-400 to-purple-600 text-white px-6">
+        <div className="w-full md:w-4/5">
+          <h1 className="text-5xl md:text-6xl font-bold mb-4">Lugha Tausi Portfolio Page</h1>
           <p className="text-lg md:text-xl mb-6">
-            We provide exceptional services to elevate your business.
+            Welcome to the Lugha Tausi Portfolio Page. Meet the team behind Lugha Tausi and discover all that Lugha Tausi has to offer.
           </p>
           <a
             href="#"
@@ -18,7 +18,7 @@ const HeroSection = () => {
         </div>
         <div className="hidden md:block w-1/2">
           <img
-            src="5.png"
+            src="Logo.webp"
             alt="Hero Image"
             className="w-1/2 h-auto rounded-lg"
           />
