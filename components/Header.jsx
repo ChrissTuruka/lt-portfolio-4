@@ -13,10 +13,10 @@ const Header = () => {
                 <a href="#" className="text-white hover:text-gray-200 transition duration-300">Home</a>
               </li>
               <li>
-                <a href="#about" className="text-white hover:text-gray-200 transition duration-300">Our Team</a>
+                <a href="#team" className="text-white hover:text-gray-200 transition duration-300">Our Team</a>
               </li>
               <li>
-                <a href="#services" className="text-white hover:text-gray-200 transition duration-300">Products</a>
+                <a href="#products" className="text-white hover:text-gray-200 transition duration-300">Products</a>
               </li>
               <li>
                 <a href="#contact" className="text-white hover:text-gray-200 transition duration-300">Contacts</a>
