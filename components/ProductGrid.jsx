@@ -35,25 +35,25 @@ const ProductGrid = () => {
     {
       name: 'Product One',
       description: 'This is a brief description of Product One.',
-      image: '5.png',
+      image: '5.jpg',
       link: '#',
     },
     {
       name: 'Product Two',
       description: 'This is a brief description of Product Two.',
-      image: '5.png',
+      image: '5.jpg',
       link: '#',
     },
     {
       name: 'Product Three',
       description: 'This is a brief description of Product Three.',
-      image: '5.png',
+      image: '5.jpg',
       link: '#',
     },
     {
       name: 'Product Four',
       description: 'This is a brief description of Product Four.',
-      image: '5.png',
+      image: '5.jpg',
       link: '#',
     },
   ];

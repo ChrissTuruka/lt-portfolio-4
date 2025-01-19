@@ -9,7 +9,7 @@ const TeamSection = () => {
         {/* Major Person */}
         <div className="mb-12">
           <img
-            src="5.png"
+            src="5.jpg"
             alt="Major Person"
             className="w-72 h-72 rounded-full mx-auto mb-4"
           />
@@ -53,21 +53,21 @@ const teamMembers = [
     position: "Lead Developer",
     description:
       "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-    image: "5.png",
+    image: "5.jpg",
   },
   {
     name: "Alice Johnson",
     position: "Designer",
     description:
       "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-    image: "5.png",
+    image: "5.jpg",
   },
   {
     name: "Mark Wilson",
     position: "Marketing Specialist",
     description:
       "lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet",
-    image: "5.png",
+    image: "5.jpg",
   },
 ];
 

@@ -3,7 +3,7 @@
 
 const HeroSection = () => {
     return (
-      <div className="flex items-center justify-between h-screen bg-gradient-to-r from-blue-400 to-purple-600 text-white px-6">
+      <div id="home" className="flex items-center justify-between h-screen bg-gradient-to-r from-blue-400 to-purple-600 text-white px-6">
         <div className="w-full md:w-4/5">
           <h1 className="text-5xl md:text-6xl font-bold mb-4">Lugha Tausi Portfolio Page</h1>
           <p className="text-lg md:text-xl mb-6">
