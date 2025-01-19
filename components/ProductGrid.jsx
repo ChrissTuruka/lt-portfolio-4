@@ -2,7 +2,7 @@
 
 const ProductGrid = () => {
     return (
-      <section className="py-12 bg-gray-900">
+      <section id="products" className="py-12 bg-gray-900">
         <div className="container mx-auto text-center">
           <h2 className="text-3xl font-bold text-white mb-8">Our Products</h2>
           
@@ -35,25 +35,25 @@ const ProductGrid = () => {
     {
       name: 'Product One',
       description: 'This is a brief description of Product One.',
-      image: '5.png',
+      image: '5.jpg',
       link: '#',
     },
     {
       name: 'Product Two',
       description: 'This is a brief description of Product Two.',
-      image: '5.png',
+      image: '5.jpg',
       link: '#',
     },
     {
       name: 'Product Three',
       description: 'This is a brief description of Product Three.',
-      image: '5.png',
+      image: '5.jpg',
       link: '#',
     },
     {
       name: 'Product Four',
       description: 'This is a brief description of Product Four.',
-      image: '5.png',
+      image: '5.jpg',
       link: '#',
     },
   ];
